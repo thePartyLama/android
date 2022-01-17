@@ -1,12 +1,16 @@
 {
-	"pizzaList": [{
-			"name": "Margherita"
+	"pizzaList": [
+		{
+			"name": "Margherita",
+			"price": 5.60
 		},
 		{
-			"name": "Pepperoni"
+			"name": "Pepperoni",
+			"price": 6.90
 		},
 		{
-			"name": "Quattro formaggi"
+			"name": "Quattro formaggi",
+			"price": 7.80
 		}
 	]
 }

@@ -1,13 +1,12 @@
 {
-    "pizzaList": [
-        {
-                "name": "Margherita",
-        },
-        {
-                "name": "Pepperoni",
-        },
-        {
-                "name": "Quattro formaggi",
-        }
-    ]
+	"pizzaList": [{
+			"name": "Margherita"
+		},
+		{
+			"name": "Pepperoni"
+		},
+		{
+			"name": "Quattro formaggi"
+		}
+	]
 }

@@ -6,27 +6,27 @@
 		},
 		{
 			"name": "Pepperoni",
-			"price": 12,99
+			"price": 12.99
 		},
 		{
 			"name": "Quattro formaggi",
-			"price": 13,50
+			"price": 13.50
 		}
 		{
 			"name": "Primavera",
-			"price": 11,99
+			"price": 11.99
 		}
 		{
 			"name": "Capricciosa",
-			"price": 12,50
+			"price": 12.50
 		}
 		{
 			"name": "Quattro salumi",
-			"price": 14,99
+			"price": 14.99
 		}
 		{
 			"name": "Frutti di marre",
-			"price": 17,50
+			"price": 17.50
 		}
 	]
 }

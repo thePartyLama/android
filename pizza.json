@@ -2,15 +2,31 @@
 	"pizzaList": [
 		{
 			"name": "Margherita",
-			"price": 5.60
+			"price": 9.50
 		},
 		{
 			"name": "Pepperoni",
-			"price": 6.90
+			"price": 12,99
 		},
 		{
 			"name": "Quattro formaggi",
-			"price": 7.80
+			"price": 13,50
+		}
+		{
+			"name": "Primavera",
+			"price": 11,99
+		}
+		{
+			"name": "Capricciosa",
+			"price": 12,50
+		}
+		{
+			"name": "Quattro salumi",
+			"price": 14,99
+		}
+		{
+			"name": "Frutti di marre",
+			"price": 17,50
 		}
 	]
 }
